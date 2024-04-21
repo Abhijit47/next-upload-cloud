@@ -15,6 +15,12 @@ const nextConfig = {
         port: '',
         // path: '/next-s3-uploads/**',
       },
+      {
+        protocol: 'https',
+        hostname: '8gc4xgirwwqbn1ha.public.blob.vercel-storage.com',
+        port: '',
+        // path: '/next-s3-uploads/**',
+      },
     ],
   },
 };
@@ -24,3 +30,5 @@ export default nextConfig;
 // https://abhijitawsbucket.s3.us-east-1.amazonaws.com/next-s3-uploads/761da9ce-5f03-47f4-b315-01e38bbd0272/Screenshot-(2).png
 
 // https://abhijitawsbucket.s3.amazonaws.com/next-s3-uploads/340816a8-a75e-4707-94f2-cbc04b42c9da/Screenshot-2024-04-01-202814.png?AWSAccessKeyId=AKIAUHFQNM3QP7GXNMWM&Expires=1713690645&Signature=UFuSKDqa99Z8zuXsDgYRUnlhS4I%3D
+
+// https://8gc4xgirwwqbn1ha.public.blob.vercel-storage.com/Screenshot%202024-04-18%20092929-EkqAzxIWjd3HMSWojFbBamza6rL6XP.png
